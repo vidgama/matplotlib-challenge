@@ -3,7 +3,7 @@ MSU Bootcamp - Module 5 Challenge
 
 How to execute:
 
-Open bash or terminal in PyCitySchools
+Open bash or terminal in Pymaceuticals
 Run 'conda activate PythonData'
 Run 'jupyter notebook'
 Open pymaceuticals.ipynb
