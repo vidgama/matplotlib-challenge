@@ -3,11 +3,12 @@ MSU Bootcamp - Module 5 Challenge
 
 How to execute:
 
-Open bash or terminal in Pymaceuticals
-Run 'conda activate PythonData'
-Run 'jupyter notebook'
-Open pymaceuticals.ipynb
-Run each input code snippet
+* Open bash or terminal in Pymaceuticals
+* Run 'conda activate PythonData'
+* Run 'jupyter notebook'
+* Open pymaceuticals.ipynb
+* Run each input code snippet
+
 Every code snippet runs error-free.
 
 At the beginning of the notebook you can find the written report for this challenge.
